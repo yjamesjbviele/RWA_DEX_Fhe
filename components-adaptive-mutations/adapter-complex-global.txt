@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\components-adaptive-mutations\adapter-complex-global.txt
+// Generated at: 2025-10-20T11:42:21.019Z
